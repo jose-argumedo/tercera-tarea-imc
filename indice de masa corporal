@@ -1,0 +1,5 @@
+peso = 75
+altura = 165
+imc = peso / altura*altura
+imc = str(imc)
+print("tu indice de masa corporal es " + imc)
